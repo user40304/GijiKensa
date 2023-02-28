@@ -1,0 +1,10 @@
+C:\Users\ie22118\source\repos\GijiKensa\bin\Debug\GijiKensa.exe.config
+C:\Users\ie22118\source\repos\GijiKensa\bin\Debug\GijiKensa.exe
+C:\Users\ie22118\source\repos\GijiKensa\bin\Debug\GijiKensa.pdb
+C:\Users\ie22118\source\repos\GijiKensa\obj\Debug\GijiKensa.csproj.AssemblyReference.cache
+C:\Users\ie22118\source\repos\GijiKensa\obj\Debug\GijiKensa.Form1.resources
+C:\Users\ie22118\source\repos\GijiKensa\obj\Debug\GijiKensa.Properties.Resources.resources
+C:\Users\ie22118\source\repos\GijiKensa\obj\Debug\GijiKensa.csproj.GenerateResource.cache
+C:\Users\ie22118\source\repos\GijiKensa\obj\Debug\GijiKensa.csproj.CoreCompileInputs.cache
+C:\Users\ie22118\source\repos\GijiKensa\obj\Debug\GijiKensa.exe
+C:\Users\ie22118\source\repos\GijiKensa\obj\Debug\GijiKensa.pdb
